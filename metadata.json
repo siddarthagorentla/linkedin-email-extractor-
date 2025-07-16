@@ -1,0 +1,6 @@
+{
+  "name": "LinkedIn Profile Extractor AI",
+  "description": "An AI-powered tool to find public contact information from a LinkedIn profile URL. Paste the profile URL to get started.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
